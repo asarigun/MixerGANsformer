@@ -4,7 +4,7 @@ Official implementation of MixerGANsformer in PyTorch. A novel model in GANs whi
 
 <p align="center"><img width="100%" src="https://github.com/asarigun/MixerGANsformer/blob/main/images/model.png"></p>
 
-## Installation
+## Usage
 
 Before running ```train.py```, check whether you have libraries in ```requirements.txt```! To save your model during training, create ```./checkpoint``` folder using ```mkdir checkpoint```.
 
